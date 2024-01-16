@@ -1,0 +1,38 @@
+# Node.js dependencies
+node_modules/
+
+# User-specific files
+.idea/
+.vscode/
+
+# Compiled output
+/dist/
+/tmp/
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Angular configuration files
+angular.json
+*.bak
+
+# Test generated files
+/karma-coverage/
+/test-results/
+
+# Environment configurations
+/src/environments/*.ts
+
+# Compiled TypeScript
+*.js
+*.js.map
+*.d.ts
+
+# Dependency lock file
+package-lock.json
+yarn.lock

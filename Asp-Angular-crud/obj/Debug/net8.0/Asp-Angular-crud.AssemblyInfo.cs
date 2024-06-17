@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Asp-Angular-crud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+685820c68cc1b62eeaf6cd71eac9b360b918c8e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75c45eb6cd80fa42e6f1d32d8fd4e8e024ff08c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Asp-Angular-crud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Asp-Angular-crud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

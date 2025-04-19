@@ -522,9 +522,13 @@ D:\LANGUAGES\AngularJS\apis\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiT
 D:\LANGUAGES\AngularJS\apis\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.apis.props
 D:\LANGUAGES\AngularJS\apis\obj\Debug\net8.0\staticwebassets.pack.json
 D:\LANGUAGES\AngularJS\apis\obj\Debug\net8.0\scopedcss\bundle\apis.styles.css
-D:\LANGUAGES\AngularJS\apis\obj\Debug\net8.0\apis.csproj.CopyComplete
 D:\LANGUAGES\AngularJS\apis\obj\Debug\net8.0\apis.dll
 D:\LANGUAGES\AngularJS\apis\obj\Debug\net8.0\refint\apis.dll
 D:\LANGUAGES\AngularJS\apis\obj\Debug\net8.0\apis.pdb
 D:\LANGUAGES\AngularJS\apis\obj\Debug\net8.0\apis.genruntimeconfig.cache
 D:\LANGUAGES\AngularJS\apis\obj\Debug\net8.0\ref\apis.dll
+D:\LANGUAGES\AngularJS\apis\bin\Debug\net8.0\apis.staticwebassets.endpoints.json
+D:\LANGUAGES\AngularJS\apis\obj\Debug\net8.0\apis.sourcelink.json
+D:\LANGUAGES\AngularJS\apis\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\LANGUAGES\AngularJS\apis\obj\Debug\net8.0\staticwebassets\msbuild.apis.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\LANGUAGES\AngularJS\apis\obj\Debug\net8.0\apis.csproj.Up2Date
